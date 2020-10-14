@@ -12,7 +12,9 @@
 <hr/>
 
 ## Use of code:
-<p></p>
+<p>Open the file with the .html extention in the browser of your choice to view the web page.</p>
+<p>To view or edit the code, I'd suggest opening the project folder in a text editor like Sublime Text or Visual Studio Code.</p>
+<p>I hope that my code can potentially help you with your future projects.</p>
 <hr/>
 
 <span>Happy Coding :sunglasses:</span>
